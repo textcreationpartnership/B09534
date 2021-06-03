@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A laurell of metaphysicke</title>
+            <author>Meurisse, F. M.</author>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09534</idno><idno type="EEBO-CITATION">62369483</idno>
+  <idno type="VID">188018</idno>
+  <idno type="EEBO-PROQUEST">2240875503</idno>
+  
+            <idno type="STC">Wing M1949C</idno>
+            <idno type="STC">ESTC R224259</idno>
+            <idno type="OCLC">62369483</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09534)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188018)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2852:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A laurell of metaphysicke</title>
+                  <author>Meurisse, F. M.</author>
+                  <author>Marshall, William, fl. 1617-1650.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Are to be sold by Ro. Walton at the Globe and Compass ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Engraved throughout.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Metaphysics --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>PFS&lt;PDAT MURP="pfs" R="University of Michigan Library"&gt;2014-03&lt;/PDAT&gt;</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>pfs</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="broadside_scholastic_cribsheet">
+            <head>A LAURELL OF METAPHYSICKE</head>
+            <p>
+               <figure>
+                  <figDesc>bystanders to the Laurel (tree) of Metaphysics</figDesc>
+                  <p>
+                     <figure>
+                        <figDesc>Three figures sitting in the Laurel: Univocation (Duns Scotus?) reconciled to Analogy (Thomas Aquinas?), shown distributing the seeds of Laurel</figDesc>
+                        <q>
+                           <l>O subtill Doct̄er, chiefe, &amp; head, of both Minervaes bands;</l>
+                           <l>Those heaped fruites, thou so collect̄st, distribute w<seg rend="sup">th</seg> thy hands.</l>
+                           <l>Th'imense profund of mysticke things, the'angelicke D<seg rend="sup">r</seg> sounds,</l>
+                           <l>And what his name shuts up, unlockes; &amp; open layes y<seg rend="sup">e</seg> grounds</l>
+                        </q>
+                        <sp>
+                           <p>A reall Ens, is univocall to God, &amp; the creatures, substances, &amp; accidens.</p>
+                        </sp>
+                        <sp>
+                           <p>A reall Ens, is analogall, to God, &amp; the creatures, substance, and accidens.</p>
+                        </sp>
+                        <sp>
+                           <p>Univocacion doth stand with Analogie.</p>
+                        </sp>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <figDesc>seven named schoolmen (Franciscans?), observing the tree on the left</figDesc>
+                        <p>
+                           <figure>
+                              <head>F. G. de Rubion</head>
+                           </figure>
+                        </p>
+                        <p>
+                           <figure>
+                              <head>A. Andreas</head>
+                           </figure>
+                        </p>
+                        <p>
+                           <figure>
+                              <head>F. F. de Mayronis.</head>
+                              <figDesc>depiction of Francis of Mayrone</figDesc>
+                           </figure>
+                        </p>
+                        <p>
+                           <figure>
+                              <head>F. G. Ocham</head>
+                              <figDesc>depiction of William of Ockham</figDesc>
+                           </figure>
+                        </p>
+                        <p>
+                           <figure>
+                              <head>F. I. de Bassolis.</head>
+                              <figDesc>depiction of Johannes de Bassolis</figDesc>
+                           </figure>
+                        </p>
+                        <p>
+                           <figure>
+                              <head>S. Bonaventura</head>
+                              <figDesc>depiction of Saint Bonaventura</figDesc>
+                           </figure>
+                        </p>
+                        <p>
+                           <figure>
+                              <head>F. Alexander de Ales</head>
+                              <figDesc>depiction of Alexander of Hales</figDesc>
+                           </figure>
+                        </p>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <figDesc>five named schoolmen, observing the tree on the right</figDesc>
+                        <p>
+                           <figure>
+                              <head>H Gandensis Doct Sorb.</head>
+                              <figDesc>depiction of Henry of Ghent</figDesc>
+                           </figure>
+                        </p>
+                        <p>
+                           <figure>
+                              <head>Caietanus.</head>
+                              <figDesc>depiction of Thomas Cajetan</figDesc>
+                           </figure>
+                        </p>
+                        <p>
+                           <figure>
+                              <head>Suarez</head>
+                              <figDesc>depiction of Francisco Suárez</figDesc>
+                           </figure>
+                        </p>
+                        <p>
+                           <figure>
+                              <head>Aegidius Romanus.</head>
+                              <figDesc>depiction of Egidius Romanus (Giles of Rome)</figDesc>
+                           </figure>
+                        </p>
+                        <p>
+                           <figure>
+                              <head>De Bacone</head>
+                              <figDesc>depiction of ? John Baconthorpe (Iohannes Bachonis sive de Bacone)</figDesc>
+                           </figure>
+                        </p>
+                     </figure>
+                  </p>
+               </figure>
+               <figure>
+                  <figDesc>the trunk of the Laurel of Metaphysick</figDesc>
+                  <p>Ens is aequivocall to Ens reall, &amp; ens of reason.
+<list>
+                        <item> An Ens of reason, is that which truely having no entitie, yet is apprehended, by the understanding, after the maner of ens, it is twofold, fained, as Chimaera, a kind of monster, &amp; founded w<seg rend="sup">ch</seg> is 3 fold.
+<list>
+                              <item> Privation, w<seg rend="sup">ch</seg> is a wanting of forme, in an apt subject, as <figure>
+                                    <figDesc>depiction of a blind man</figDesc>
+                                 </figure> blind<g ref="char:EOLunhyphen"/>nes</item>
+                              <item> Negation, is y<seg rend="sup">e</seg> want of forme, in an unapt subject. <figure>
+                                    <figDesc>depiction of a man holding a white tablet and a black</figDesc>
+                                 </figure> Negation of blacke, Negation of white</item>
+                              <item> Relation w<seg rend="sup">ch</seg> is a 2<seg rend="sup">d</seg> intention remaining in a thing and in the first intention <figure>
+                                    <figDesc>depiction of a man reclining with a book</figDesc>
+                                 </figure>
+                              </item>
+                           </list>
+                        </item>
+                        <item> A reall Ens, is that which hath a true reallitie, distinct from nothing, &amp; independent from the worke of the understanding, whose object<g ref="char:EOLhyphen"/>ive conception, is one cut of from the conception of inferiour things, &amp; formally distinct from them.</item>
+                     </list>
+                  </p>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>the branches of the Laurel of Metaphysick</figDesc>
+                  <p> Ens, again lesse specially, is divided, into one and many, &amp; into ens in acte, &amp; ens in power, &amp; ens simply, &amp; respectively, or according to something, &amp; into a thing, or the maner of a thing.
+<list>
+                        <item> An absolute Ens, is that which is not formally referred to another, as God, the essentiall attributes, and the 3 first, and most generall <gap reason="illegible" resp="#keyers" extent="1 chunk">
+                              <desc>…</desc>
+                           </gap>nuses, of the praedicaments. <figure/>
+                        </item>
+                        <item> A respective, or relative Ens, is y<seg rend="sup">t</seg> which is formally to another thing, as fatherhood, sonship.
+<list>
+                              <item> There are three divine relations subsisting.
+<list>
+                                    <item>Paternity or fatherhood</item>
+                                    <item>Filiation or Sonship.</item>
+                                    <item>A Passive spiration</item>
+                                 </list>
+                                 <figure>
+                                    <figDesc>depicion of the Trinity as a triangle joining three circles</figDesc>
+                                 </figure>
+                              </item>
+                              <item>Created relations are in a manifold difference whereof in Logicke,</item>
+                           </list>
+                        </item>
+                     </list>
+                     <list>
+                        <item> Ens non quantum, is that which formally, by itselfe, doth not declare perfection, such are the relations of notion in divine things, lest any perfection should be in one person, which is not in another.</item>
+                        <item> Ens quantum, is that which doth formally declare perfection, as substance, wisdome, goodnes, etc.</item>
+                     </list>
+                     <list>
+                        <item> A finite Ens is y<seg rend="sup">t</seg> w<seg rend="sup">ch</seg> hath his entitie, en<g ref="char:EOLhyphen"/>closed in limits.
+<list>
+                              <item> Accidens, is an Ens, to which belongs inhaerence, it is univocall to y<seg rend="sup">e</seg> 9 orders of Accidentes.
+<list>
+                                    <item> Quantity, as to be long, short, broad, <figure>
+                                          <figDesc>depiction of craftsman carrying measuring implements (square and dividers)</figDesc>
+                                       </figure>
+                                    </item>
+                                    <item> Quality, as to bee white, blacke, etc. <figure>
+                                          <figDesc>depiction of painter with palette and brush</figDesc>
+                                       </figure>
+                                    </item>
+                                    <item> Relation, as to be a father, a so, etc. <figure>
+                                          <figDesc>depiction of father and son hand in hand</figDesc>
+                                       </figure>
+                                    </item>
+                                    <item> Action, as to strike. <figure>
+                                          <figDesc>depiction of soldier with sword and shield</figDesc>
+                                       </figure>
+                                    </item>
+                                    <item> Passion, as to be striken <figure>
+                                          <figDesc>depiction of man recoiling from the blow of the soldier</figDesc>
+                                       </figure>
+                                    </item>
+                                    <item> Time when, as, one a clocke. <figure>
+                                          <figDesc>depiction of man carrying hourglass and pocketwatch</figDesc>
+                                       </figure>
+                                    </item>
+                                    <item> Place where, as to be in the market, to be in a birdcage. <figure>
+                                          <figDesc>depiction of a man carrying a birdcage</figDesc>
+                                       </figure>
+                                    </item>
+                                    <item> Site, as to be standing, sitting, etc. <figure/>
+                                    </item>
+                                    <item> Habit, as to weare a Crowne. <figure>
+                                          <figDesc>depictio of a crowned king</figDesc>
+                                       </figure>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item> Substance is an Ens, to which subsistance doth belong.
+<list>
+                                    <item> A corporeall or materiall substance <figure>
+                                          <figDesc>depiction of a cubical hanging weight</figDesc>
+                                       </figure>
+                                    </item>
+                                    <item>
+                                       <p>An incorporeall or Spirituall substance</p>
+                                       <p> Angells may be proved naturally, which are man in the same Species, their nature is incorporeall, and incorruptible, not consisting of physicall composition of matter, and forme, but yet metaphysically constituted of acte, &amp; power. Angells, are the asisting formes to the heavens, they moue in place, &amp; do exist in place by their proper substance, understanding both themseues, &amp; other things even materialls by the species drawne by them, or concreated with them they have will, and freedome.
+<list>
+                                             <item> The first Hierarchy divided into three orders.
+<list>
+                                                   <item> Seraphims, who being enflamed or enlightened do enlighten. <figure>
+                                                         <figDesc>depiction of Seraphim</figDesc>
+                                                      </figure>
+                                                   </item>
+                                                   <item> Cherumbins, who being full of Knowledge do teach. <figure>
+                                                         <figDesc>depiction of Cherubim</figDesc>
+                                                      </figure>
+                                                   </item>
+                                                   <item> Thrones wherein God sitteth <figure>
+                                                         <figDesc>depiction of (the angelic order of) Thrones</figDesc>
+                                                      </figure>
+                                                   </item>
+                                                </list>
+                                             </item>
+                                             <item> The second Hierarchy divided into three orders.
+<list>
+                                                   <item> Dominations, who do excell others. <figure>
+                                                         <figDesc>depiction of (the angelic order of) Dominations</figDesc>
+                                                      </figure>
+                                                   </item>
+                                                   <item> Principalities, who rule over others. <figure>
+                                                         <figDesc>depiction of (the angelic order of) Principalities</figDesc>
+                                                      </figure>
+                                                   </item>
+                                                   <item> Virtues by whom signes and miracles are wrought <figure>
+                                                         <figDesc>depiction of (the angelic order of) Virtues</figDesc>
+                                                      </figure>
+                                                   </item>
+                                                </list>
+                                             </item>
+                                             <item> The third Hierarchy divided into three orders.
+<list>
+                                                   <item> Powers, who do restraine the devill. <figure>
+                                                         <figDesc>depiction of (the angelic order of) Powers</figDesc>
+                                                      </figure>
+                                                   </item>
+                                                   <item> Archangells, who do execute the greater messages. <figure>
+                                                         <figDesc>depiction of Archangels</figDesc>
+                                                      </figure>
+                                                   </item>
+                                                   <item> Angells who performe the lesser Messages <figure>
+                                                         <figDesc>depiction of Angels</figDesc>
+                                                      </figure>
+                                                   </item>
+                                                </list>
+                                             </item>
+                                          </list>
+                                       </p>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                        <item> An infinit Ens, is that which hath no limits, or bounds, of his entitie, as God.
+<figure>
+                              <figDesc>God depicted as radiant sun</figDesc>
+                              <head>יהוה</head>
+                              <p>The attributes contained in these beames may be proved of God by naturall reason.
+<list>
+                                    <item>God is</item>
+                                    <item>God is one</item>
+                                    <item>God is y<seg rend="sup">e</seg> father of his</item>
+                                    <item>God is a necessarie ens or being</item>
+                                    <item>God is of himselfe</item>
+                                    <item>God is infinit</item>
+                                    <item>God is immeasurable</item>
+                                    <item>God is most simple</item>
+                                    <item>God is invisible</item>
+                                    <item>God is living</item>
+                                    <item>God is intelligent</item>
+                                    <item>God hath a will</item>
+                                    <item>God is unchangeable</item>
+                                    <item>God is y<seg rend="sup">e</seg> cause of all things</item>
+                                    <item>God hath providence</item>
+                                 </list>
+                              </p>
+                           </figure>
+                        </item>
+                     </list>
+                  </p>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>the roots of the Laurel of Metaphysick</figDesc>
+                  <p>Ens hath Principles
+<list>
+                        <item>A complexe principle.
+<list>
+                              <item>A complexe principle, is the first ens; from which they are drawen, it is impossible the same thing to be, and not to be, an affirmation and negation of any thing, etc.</item>
+                           </list>
+                        </item>
+                        <item>An incomplexe principle
+<list>
+                              <item>Essence, is y<seg rend="sup">t</seg> where by a thing is constituted in a determinate species of Ens, and it is dist<g ref="char:EOLhyphen"/>inguished from other things essentially; &amp; it is the roote of proprieties. <figure>
+                                    <figDesc>depiction of Essence as an allegorical figure</figDesc>
+                                 </figure>
+                              </item>
+                              <item>Entitie, is the maner of essence, by which things are either divisible, or indivisible, although in respecte, or be reasson of their essence, they are indivisible. <figure>
+                                    <figDesc>depiction of Entity as an allegorical figure</figDesc>
+                                 </figure>
+                              </item>
+                              <item>Existence is the maner of Essence, whereby it existeth, in nature, which maner, is formally distinct from it. <figure>
+                                    <figDesc>depiction of Existence as an allegorical figure</figDesc>
+                                 </figure>
+                              </item>
+                              <item>Inhaerence is an accidentall, maner whereby a thing doth exist dependently from another as from y<seg rend="sup">e</seg> subject, it is no part of y<seg rend="sup">e</seg> essence of acci<g ref="char:EOLunhyphen"/>dent. <figure>
+                                    <figDesc>depiction of Inherence as an allegorical figure</figDesc>
+                                 </figure>
+                              </item>
+                              <item>Subsistence, is the substantiall maner, by which a thing doth exist, independently from another, it is not of the essence of substance, supposi<g ref="char:EOLhyphen"/>tallity declareth the incommunicable subsistence, w<seg rend="sup">ch</seg> in an understanding nature, is personality. <figure>
+                                    <figDesc>depiction of Subsistence as an allegorical figure</figDesc>
+                                 </figure>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                  </p>
+                  <p>The properties of Ens do flow from the intrinsecall principles of the same.
+<list>
+                        <head>COMPLEXE Properties.</head>
+                        <label>Acte, is a property of Ens, whereby one, ens is said, either to be perfect, in it selfe, or to perfect another, it is either subsisting, or informing, and informing is either substantiall, or accidentall.</label>
+                        <item>Power, or possibility, is threefold, active, passive, naturall, &amp; neither, active, is a principle, whereby something doth transmute, or change, another thing, the passive naturall, is a principle, whereby something is changed by another thing, conformably to nature, neither indifferently, as that which is in the superficies, or outeside, in respect of blacke, and white, an obedientall power, is likewise added, whereby something is able to receive a forme, from a supernaturall agent, to w<seg rend="sup">ch</seg> it hath onely a capacity, without any naturall appetite.</item>
+                        <label>Necessity is a property of Ens, whereby it is in the same maner, and immutably, it is twofold, especially metaphysicall, whereby God, is simply necessary, and physicall, whereby a thing is naturally necessary, as man, to be a reasonable creature.</label>
+                        <item>Contingence is a property whereby, a thing is mutably, as it is a rare contingent, or a thing seldom happening, for a fisher, to take a wedge of gold, with his nets.</item>
+                        <label>Things are the same in reason, which have conceptions, altoge<g ref="char:EOLhyphen"/>ther indistinct, both on y<seg rend="sup">e</seg> part of y<seg rend="sup">e</seg> thing, &amp; of the understanding.</label>
+                        <item>Things are distinct in reason, w<seg rend="sup">ch</seg> are praecisely distinguished, by the collative acte of the understanding.</item>
+                        <label>Things are the same by the nature of the thing, whe<g ref="char:EOLhyphen"/>reof a contradictory prae<g ref="char:EOLhyphen"/>dicates, cannot be veri<g ref="char:EOLhyphen"/>fied.</label>
+                        <item>Things distinct by the nature of the thing, are contrary.</item>
+                        <label>Things are the same for<g ref="char:EOLhyphen"/>mally, when one thing is y<seg rend="sup">e</seg> same to another, in his forme all consideration, by itselfe, &amp; primarily.</label>
+                        <item>Things are formal<g ref="char:EOLhyphen"/>ly distinct, w<seg rend="sup">ch</seg> have divers formallities.</item>
+                        <label>Things are the same really, whereof one cannot exist without the other, without contradiction.</label>
+                        <item>Things distinct are contrary, except they be relatives, or do determin a necessary habitude to one another.</item>
+                        <label>Things are the same essentially, which are identificated, to one most singular essence.</label>
+                        <item>Things are distinct, or divers, which have distinct, or divers essences.</item>
+                        <label>Things are the same sub<g ref="char:EOLhyphen"/>jectively, w<seg rend="sup">ch</seg> doe agree quid<g ref="char:EOLunhyphen"/>ditatively, in some potentiall, contractible quality, by the reallity of the difference.</label>
+                        <item>Things are distinct or divers, w<seg rend="sup">ch</seg> are contrary.</item>
+                        <label>Things are the same in themselues, being the wholes objectively, whereof some praedicate, may be praedicated quidditatively, whether it be limited, or transcendent.</label>
+                        <item>Things distinct are contrary.</item>
+                     </list>
+                     <list>
+                        <head>INCOMPLEXE Properties.</head>
+                        <item>Bonum, or good, is a property of Ens, and goodnes is the conuenience, or agreement, of a thing, to another, whence it doth formally consist, in respect, and evill is the disagreement of a thing, to another.<note>A virtu<g ref="char:EOLhyphen"/>all distinct<g ref="char:EOLhyphen"/>ion hath no foundation</note>
+                        </item>
+                        <item>Verum, true is a passio, or property of Eens, but truth is twofold, truth of a thing, which is the conformity of a thing to its Idea, or patterne, and the truth of Knowledge, which is the conformity of the understanding, to its object, the truth is in the understanding formally, and in things fundamentally, in word and writing, representatively, falshood, is discerned by truth.</item>
+                        <item>Unum one, is a property of Ens, &amp; reciprocall w<seg rend="sup">th</seg> it adding besides ens, something reall, positive, &amp; formally distinct from it, the unity of quantityes, &amp; praedicamentall, w<seg rend="sup">ch</seg> ariseth from y<seg rend="sup">e</seg> division of a continued thing, doth not belong to this purpose, but a transcendent unity, arising from y<seg rend="sup">e</seg> division of essences, or individualls, whence it is twofold formall, &amp; numericall, formall, is either genericall, proper to y<seg rend="sup">e</seg> genericall nature, w<seg rend="sup">ch</seg> doth not suffer division into more generacs, or specificall, proper to y<seg rend="sup">e</seg> species, w<seg rend="sup">ch</seg> doth not suffer division into more species. y<seg rend="sup">e</seg> numericall unity, now lastly, is that whereby something is one, in number, &amp; it is the chiefe of all y<seg rend="sup">e</seg> principle of individuation, the last reallity of the specificall nature, of every thing, first, and chiefely, divers, from any other, determinating by it selfe, the specificall nature, to the essence of the individuall.</item>
+                     </list>
+                  </p>
+               </figure>
+               <figure>
+                  <figDesc>Waterers at the wet roots of the Laurel of Metaphysick (allegorical figures streamside with watering cans and flowers)</figDesc>
+                  <p>
+                     <list>
+                        <item>Physicke, or naturall Phylosophy, watereth her rootes of y<seg rend="sup">e</seg> first mover, aeternall, infinit etc. from the plentifull streames of Metaphysick. <figure>
+                              <figDesc>depiction of Physics (natural philosophy) as an allegorical figure</figDesc>
+                           </figure>
+                        </item>
+                        <item>Ethickes or Morall phylosophy drawes the generall reasons or con<g ref="char:EOLunhyphen"/>siderations of its acts habits &amp; powers from y<seg rend="sup">e</seg> same rivers of Metaphy<g ref="char:EOLhyphen"/>sicks <figure>
+                              <figDesc>depiction of Ethics (moral philosophy) as an allegorical figure</figDesc>
+                           </figure>
+                        </item>
+                        <item>Logicke, drawes the foundations of second notions from the foun<g ref="char:EOLhyphen"/>taines of Metaphysickes. <figure>
+                              <figDesc>depiction of Logic as an allegorical figure</figDesc>
+                           </figure>
+                        </item>
+                     </list>
+                  </p>
+               </figure>
+            </p>
+            <byline>Published by E. M. Meurisse <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Paris</byline>
+            <byline>Translated out of Latin by Ric: Dey in Art: Bacca: Cantabri.</byline>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Are to be sold by Ro: Walton at the Globe and Compass in S<seg rend="sup">t</seg>. Paul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s churchyard between y<seg rend="sup">e</seg> two North dores</p>
+         </div>
+      </back>
+   </text>
+</TEI>
